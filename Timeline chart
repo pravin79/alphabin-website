@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T10:32:39.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="DXSpUe1lrNSYcX6lhGXl" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-20T10:33:55.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vHEOQt0_A-9_fiJJzJ3Y" version="17.4.5" type="github">
   <diagram id="GiVgXMbKJMi4KlWIchBO" name="Page-1">
     <mxGraphModel dx="1426" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="0at9dImYx0X-8KXnRFTT-30" value="&lt;span&gt;Explored WebdricerIO, Appium&lt;br&gt;and create Mobile Automation Testing project for native applicaton&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="553.63" y="720" width="191.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0at9dImYx0X-8KXnRFTT-31" value="Week: 1 to 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="128" y="660" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0at9dImYx0X-8KXnRFTT-32" value="Week: 1 to 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="226.5" y="558" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
