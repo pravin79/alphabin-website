@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T10:24:57.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TPff4vhi2Jjg4-_sXWhL" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-20T10:25:53.830Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xxgie9mFSO_DeEMOOhIG" version="17.4.5" type="github">
   <diagram id="GiVgXMbKJMi4KlWIchBO" name="Page-1">
     <mxGraphModel dx="1426" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="0at9dImYx0X-8KXnRFTT-19" value="&lt;span&gt;Explored Cypress and created test cases for Amazon site&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171.13" y="720" width="191.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0at9dImYx0X-8KXnRFTT-20" value="&lt;span&gt;Explored Git commands and git workflow&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271.25" y="460" width="191.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
